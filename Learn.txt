@@ -1,0 +1,4 @@
+1) Теория CI\CD
+CI (Continuous integration) - Это DevOps модель, в которой разработчики делают
+Commit кода в Repository и автоматически запускают Build или Компиляция этого кода, после жтого зваускаются автоматическме тесты кода: Unit Test, Integration test, Functionality Test.
+CD (Continuous Delivery and Deployment - Это DevOps модель, в которой разработчики делают Commit кода в Repository и автоматически запускают Build или Компиляция кода, после этого запускаются автоматические тесты кода и готовой Artifact(скомпилированный код) делает Deploy в Staging, Production.
